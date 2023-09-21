@@ -1,0 +1,19 @@
+.banner {
+    width: 65%;
+    margin: 60px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.card-style {
+    border-bottom: 3px solid gray;
+    width: 20%;
+    height: 20rem;
+}
+
+.img-card {
+    width: 15rem;
+    height: 15rem;
+}
